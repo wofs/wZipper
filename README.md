@@ -1,2 +1,2 @@
 # wZipper
-A wrapper for the Zipper, Lazarus.
+wZipper used Zipper for Lazarus + Example
